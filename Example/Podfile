@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YohooImageView_Example' do
+  pod 'YohooImageView', :path => '../'
+
+  target 'YohooImageView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
