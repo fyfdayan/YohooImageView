@@ -1,0 +1,6 @@
+framework module YohooImageView {
+  umbrella header "YohooImageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

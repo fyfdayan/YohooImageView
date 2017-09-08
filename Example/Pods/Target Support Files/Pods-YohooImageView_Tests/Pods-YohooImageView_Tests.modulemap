@@ -1,0 +1,6 @@
+framework module Pods_YohooImageView_Tests {
+  umbrella header "Pods-YohooImageView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

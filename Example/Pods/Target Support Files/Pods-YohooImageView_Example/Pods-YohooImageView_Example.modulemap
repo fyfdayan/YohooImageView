@@ -1,0 +1,6 @@
+framework module Pods_YohooImageView_Example {
+  umbrella header "Pods-YohooImageView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.0.2)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - YohooImageView (0.1.0):
+    - Masonry
+    - SDWebImage
+
+DEPENDENCIES:
+  - YohooImageView (from `../`)
+
+EXTERNAL SOURCES:
+  YohooImageView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  YohooImageView: 99dad668fe2607b06d241db39035496846774b9d
+
+PODFILE CHECKSUM: 5d1df3176a71c4f7d3b5ac9e0daeb773691cbe66
+
+COCOAPODS: 1.2.1
